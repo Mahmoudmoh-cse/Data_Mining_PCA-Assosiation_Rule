@@ -1,0 +1,101 @@
+Transaction ID,Items Purchased,Date,Amount
+1001,"MILK;BUTTER",2023-04-18,22
+1002,"Bread;Cheese",2023/04/21,34
+1003,"CHICKEN | BUTTER | MILK | EGGS | JUICE",2023-04-11,null
+1004,"yogurt | yogurt",2023-04-13,60
+1005,"chicken;cheese;bread;milk",04-04-2023,60
+1006,"eggs | yogurt | yogurt | cheese",NULL,54
+1007,"eggs | rice | juice",2023-04-11,22
+1008,"JUICE | BUTTER | BREAD | CHEESE",21-04-2023,28
+1009,"pasta,,pasta,,butter",2023/04/05,68
+1010,"bread;eggs",NULL,49
+1011,"pasta | milk | bread | pasta",06-04-2023,null
+1012,"pasta | eggs | pasta | bread",2023-04-12,69
+1013,"CHICKEN,,YOGURT",2023-04-10,null
+1014,"bread,rice",NULL,55
+1015,"butter,,pasta,,chicken",2023/04/07,62
+1016,"RICE;PASTA;RICE;BREAD",2023/04/19,34
+1017,"BREAD;MILK",NULL,52
+1018,"butter;rice;cheese",08-04-2023,32
+1019,"bread | juice",2023/04/21,null
+1020,"YOGURT,,BREAD,,CHEESE,,CHEESE,,CHEESE",2023-04-15,24
+1021,"pasta,bread,milk,pasta,milk",16-04-2023,45
+1022,"Eggs,Juice",15-04-2023,66
+1023,"Eggs,Cheese,Butter,Cheese,Milk",2023/04/17,52
+1024,"Eggs,Bread",NULL,35
+1025,"chicken,,bread",2023-04-09,40
+1026,"butter | juice | eggs",01-04-2023,56
+1027,"Bread;Pasta",2023-04-03,30
+1028,"Pasta | Butter | Chicken | Pasta | Milk",2023-04-09,67
+1029,"Butter;Butter;Chicken",2023/04/09,23
+1030,"JUICE,BUTTER",21-04-2023,48
+1031,"pasta,milk,bread,bread,eggs",NULL,39
+1032,"milk,yogurt,cheese,cheese",2023/04/20,35
+1033,"eggs;juice;milk",08-04-2023,64
+1034,"JUICE,,MILK",15-04-2023,70
+1035,"cheese,,milk,,cheese",09-04-2023,45
+1036,"MILK | BREAD | BUTTER | EGGS",2023/04/12,47
+1037,"JUICE;CHICKEN",2023/04/01,54
+1038,"yogurt | juice | bread",NULL,52
+1039,"JUICE;YOGURT;JUICE;BUTTER",2023/04/13,31
+1040,"JUICE | PASTA | MILK | BUTTER",2023/04/20,48
+1041,"cheese | pasta | rice | eggs | bread",2023/04/08,32
+1042,"milk,,milk,,cheese",2023/04/21,64
+1043,"Rice,Juice,Cheese,Eggs,Milk",17-04-2023,null
+1044,"bread,,rice,,eggs",2023/04/15,52
+1045,"pasta | rice | eggs | rice | rice",17-04-2023,37
+1046,"Bread | Butter | Cheese | Butter | Yogurt",2023/04/13,33
+1047,"juice | juice",14-04-2023,57
+1048,"CHICKEN,,JUICE",13-04-2023,67
+1049,"rice,,cheese,,butter",2023/04/13,49
+1050,"chicken,,pasta,,milk",NULL,49
+1051,"MILK | BUTTER | JUICE",13-04-2023,46
+1052,"bread,rice,milk,pasta",2023-04-21,35
+1053,"MILK;CHICKEN;EGGS",2023-04-19,36
+1054,"Eggs;Chicken;Chicken;Bread",NULL,63
+1055,"juice,cheese,bread,chicken,cheese",2023/04/04,42
+1056,"Yogurt,,Bread,,Pasta,,Yogurt,,Milk",21-04-2023,47
+1057,"pasta,,butter,,chicken",2023-04-11,25
+1058,"rice,,cheese,,rice,,chicken",2023-04-16,36
+1059,"Butter,Chicken,Butter,Pasta",14-04-2023,35
+1060,"Rice;Rice;Milk;Bread;Butter",12-04-2023,42
+1061,"PASTA | YOGURT | YOGURT | RICE | BUTTER",NULL,27
+1062,"cheese | cheese | rice",2023-04-10,38
+1063,"Yogurt,Eggs,Butter",NULL,null
+1064,"eggs | rice | bread | milk",02-04-2023,50
+1065,"BREAD,,JUICE",2023-04-02,56
+1066,"bread,,cheese,,bread,,pasta",17-04-2023,48
+1067,"chicken,juice,butter,chicken",2023/04/07,62
+1068,"Eggs;Cheese",20-04-2023,34
+1069,"butter | rice | bread | cheese",07-04-2023,34
+1070,"BUTTER,EGGS,BREAD",19-04-2023,49
+1071,"juice,,butter,,pasta,,pasta",2023/04/11,25
+1072,"chicken | chicken | milk",2023/04/17,37
+1073,"chicken,juice,rice",2023-04-04,64
+1074,"butter,juice,pasta,milk,rice",2023/04/13,20
+1075,"juice,,milk,,cheese,,pasta,,yogurt",2023-04-18,48
+1076,"bread | milk | chicken | cheese | eggs",NULL,27
+1077,"bread | eggs | rice | butter | pasta",2023/04/15,32
+1078,"bread | butter | juice",2023/04/10,57
+1079,"eggs | rice | pasta | rice | yogurt",2023-04-11,35
+1080,"cheese,,juice,,milk,,yogurt,,rice",05-04-2023,28
+1081,"BREAD,,RICE,,BREAD,,PASTA",NULL,29
+1082,"rice | butter",NULL,63
+1083,"YOGURT,RICE,PASTA,MILK,CHICKEN",2023-04-10,47
+1084,"bread;rice",NULL,38
+1085,"yogurt,,juice,,eggs,,cheese",2023/04/03,59
+1086,"Rice;Chicken;Eggs",01-04-2023,63
+1087,"bread | rice | yogurt",2023-04-10,50
+1088,"cheese | juice",13-04-2023,null
+1089,"Chicken | Rice",2023/04/08,36
+1090,"BREAD,,MILK,,BUTTER",2023-04-05,40
+1091,"Eggs | Cheese | Eggs | Pasta | Yogurt",16-04-2023,41
+1092,"Rice;Bread",2023/04/13,70
+1093,"milk | butter | pasta | bread | rice",21-04-2023,34
+1094,"milk;chicken;pasta;yogurt;chicken",2023/04/10,28
+1095,"MILK,,BUTTER",2023-04-18,43
+1096,"Chicken,,Eggs,,Juice,,Bread,,Rice",07-04-2023,35
+1097,"Bread,Yogurt,Pasta,Yogurt",NULL,49
+1098,"CHEESE,CHICKEN",2023/04/05,68
+1099,"chicken | cheese | cheese",2023-04-09,54
+1100,"eggs,bread,milk,eggs",2023-04-01,28
